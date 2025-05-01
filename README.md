@@ -42,6 +42,8 @@ GIT PROFILE:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SonalAcharya911&show_icons=true&theme=radical" width="45%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonalAcharya911&theme=radical" width="45%"/>
+<!--   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SonalAcharya911&theme=radical)
+ -->
 </p>
 
 ---
@@ -49,16 +51,17 @@ GIT PROFILE:
 ### 🌱 I'm Currently Learning
 
 - 🧠 **Neuromorphic Computing**: Mimicking the human brain for efficient AI
-- 💻 Advanced Backend Development & API Integration
-- 📊 Data Structures and Algorithms
+- 🤖 **Artificial Intelligence & Machine Learning**: Building smart, adaptive systems 
+- 💻 Java Full Stack Development & API Integration
+
 
 ---
 
 ### 🏆 Achievements
 
-- 🥇 1st place in Times of India Aptitude Test 🧠
+- 🥇 1st place in Times of India Aptitude Test,2017 🧠
 - 💬 Strong communication, presentation, and problem-solving skills
-- 🌟 Taught peers & handled high-pressure situations (like fixing code minutes before a final seminar!)
+<!-- - 🌟 Taught peers & handled high-pressure situations (like fixing code minutes before a final seminar!) -->
 
 ---
 
@@ -66,7 +69,9 @@ GIT PROFILE:
 
 <p align="center">
   <a href="mailto:sonalacharya911@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/sonal-karma-685107299/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/golden_beads_8813/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
 </p>
 
 ---
